@@ -57,4 +57,7 @@ Total cost with required parts: **$42**
 
 ## Firmware
 
-// TODO
+QMK:
+
+- [source code](https://github.com/zzeneg/qmk_firmware/tree/feature/smol/keyboards/smol)
+- [pre-compiled file](./fimware/qmk/smol_zzeneg.uf2)
