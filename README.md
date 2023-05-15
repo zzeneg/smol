@@ -60,4 +60,9 @@ Total cost with required parts: **$42**
 QMK:
 
 - [source code](https://github.com/zzeneg/qmk_firmware/tree/feature/smol/keyboards/smol)
-- [pre-compiled file](./fimware/qmk/smol_zzeneg.uf2)
+- [pre-compiled file](./firmware/qmk/smol_zzeneg.uf2)
+
+Vial:
+
+- [source code](https://github.com/zzeneg/vial-qmk/tree/feature/smol/keyboards/smol)
+- [pre-compiled file](./firmware/vial/smol_vial.uf2)
