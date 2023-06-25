@@ -28,14 +28,10 @@ Small and cheap low profile split keyboard with 36 keys using RP2040 Zero microc
 
 ## Case files
 
-- [top left](stl/top-left.stl)
-- [top right](stl/top-right.stl)
-- [bottom left](stl/bottom-left.stl)
-- [bottom right](stl/bottom-right.stl)
+In [STL folder](./stl/) - files for left/right parts. Left also has a version for roller encoder (make sure to order both top and bottom with roller).
 
-![](./images/render-top.png)
-![](./images/render-front.png)
 ![](./images/render-side.png)
+![](./images/render-front.png)
 ![](./images/render-bottom.png)
 
 ## Bill of materials
@@ -66,3 +62,7 @@ Vial:
 
 - [source code](https://github.com/zzeneg/vial-qmk/tree/feature/smol/keyboards/smol)
 - [pre-compiled file](./firmware/vial/smol_vial.uf2)
+
+## Changelog
+
+- 2023-06-25 - new case with magnet and feet holes, new Fusion 360 project with design history
